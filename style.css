@@ -1,6 +1,4 @@
-/* ===========================
-   MOBILE RESPONSIVE DESIGN
-   =========================== */
+
 
 @media screen and (max-width: 768px) {
 
@@ -8,7 +6,7 @@
         overflow-x:hidden;
     }
 
-    /* Navigation */
+    
 
     nav{
         display:flex;
@@ -42,7 +40,7 @@
         display:block;
     }
 
-    /* Images */
+    
 
     img{
         width:100%;
@@ -59,7 +57,7 @@
         flex-wrap:wrap;
     }
 
-    /* Text */
+    
 
     h1{
         font-size:28px;
@@ -76,7 +74,7 @@
         line-height:1.7;
     }
 
-    /* Containers */
+    
 
     .para,
     .disclaimer{
@@ -84,7 +82,7 @@
         padding:15px;
     }
 
-    /* Buttons */
+    
 
     button{
         width:90%;
@@ -92,10 +90,16 @@
         display:block;
     }
 
-    /* Lists */
+    
 
     .list{
         padding-left:20px;
     }
+   img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
 
 }
