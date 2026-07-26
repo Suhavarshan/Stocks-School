@@ -1,0 +1,101 @@
+/* ===========================
+   MOBILE RESPONSIVE DESIGN
+   =========================== */
+
+@media screen and (max-width: 768px) {
+
+    body{
+        overflow-x:hidden;
+    }
+
+    /* Navigation */
+
+    nav{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        text-align:center;
+        padding:15px;
+    }
+
+    .websitename{
+        display:block;
+        margin-bottom:15px;
+        font-size:30px;
+    }
+
+    ul{
+        display:flex;
+        flex-direction:column;
+        margin:0;
+        padding:0;
+        width:100%;
+    }
+
+    li{
+        display:block;
+        list-style:none;
+        margin:8px 0;
+    }
+
+    h3{
+        display:block;
+    }
+
+    /* Images */
+
+    img{
+        width:100%;
+        max-width:100%;
+        height:auto;
+        display:block;
+        margin:auto;
+    }
+
+    .imgcontainer{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-wrap:wrap;
+    }
+
+    /* Text */
+
+    h1{
+        font-size:28px;
+        text-align:center;
+    }
+
+    h2{
+        font-size:18px;
+        line-height:1.7;
+    }
+
+    p{
+        font-size:16px;
+        line-height:1.7;
+    }
+
+    /* Containers */
+
+    .para,
+    .disclaimer{
+        margin:10px;
+        padding:15px;
+    }
+
+    /* Buttons */
+
+    button{
+        width:90%;
+        margin:10px auto;
+        display:block;
+    }
+
+    /* Lists */
+
+    .list{
+        padding-left:20px;
+    }
+
+}
