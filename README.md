@@ -1,131 +1,136 @@
-# 📈 Stocks-School
+# 📈 Stocks School
 
-A beginner-friendly educational website that explains the **basics and fundamentals of the stock market** in a simple and easy-to-understand way.
+**Learn the Stock Market. Understand Before You Invest.**
 
-## 🌐 About the Project
+Stocks School is an educational website created to help beginners understand the **basics and fundamentals of the stock market** in a simple and beginner-friendly way.
 
-**Stocks-School** is a website created to help beginners understand important stock market concepts without complicated financial terminology.
-
-The website covers topics such as:
-
-# 📈 Stocks-School
-
-A beginner-friendly educational website that explains the **basics and fundamentals of the stock market** in a simple and easy-to-understand way.
-
-## 🌐 About the Project
-
-**Stocks-School** is a website created to help beginners understand important stock market concepts without complicated financial terminology.
-
-The website covers topics such as:
-
-* 📊 Stock market basics
-* 💰 What is a share?
-* 🏦 DEMAT accounts
-* 📈 Trading vs. investing
-* ⚠️ Understanding investment risks
-* 💡 Beginner tips
-* 📝 Basic steps to get started
-
-The project also includes content in **both English and Tamil**, making the information more accessible to Tamil-speaking learners.
-
-## 🛠️ Technologies Used
-
-* **HTML5** – Website structure and content
-* **CSS3** – Styling and page design
-
-> JavaScript and frameworks are not used in this project.
-
-## 🎯 Project Goal
-
-The goal of Stocks-School is to create a simple educational resource for people who are completely new to the stock market.
-
-This project was also created as a way to practice and improve my **HTML and CSS web development skills**.
-
-## 🌎 Live Website
-
-Visit the live website:
-
-**https://suhavarshan.github.io/Stocks-School/**
-
-## 📚 What I Learned
-
-While building this project, I practiced:
-
-* Creating webpages with HTML
-* Styling webpages using CSS
-* Linking multiple HTML pages
-* Adding and sizing images
-* Creating navigation sections
-* Organizing website content
-* Publishing a website using GitHub Pages
-* Understanding basic responsive design concepts
-
-## ⚠️ Disclaimer
-
-Stocks-School is created **for educational purposes only**.
-
-The information provided on this website is intended to explain basic stock market concepts and should not be considered financial or investment advice.
-
-Always do your own research and consult a qualified financial professional before making investment decisions.
-
-## 👨‍💻 About the Developer
-
-Created by **Suhavarshan** as a web development learning project.
-
-Currently learning and improving my skills in **HTML, CSS, and web development**.
+The goal of this project is to make financial concepts easier to understand without promoting any particular stock, company, broker, or investment product.
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and learn from it!
+## 🌐 Website
 
-The project also includes content in **both English and Tamil**, making the information more accessible to Tamil-speaking learners.
-
-## 🛠️ Technologies Used
-
-* **HTML5** – Website structure and content
-* **CSS3** – Styling and page design
-
-> JavaScript and frameworks are not used in this project.
-
-## 🎯 Project Goal
-
-The goal of Stocks-School is to create a simple educational resource for people who are completely new to the stock market.
-
-This project was also created as a way to practice and improve my **HTML and CSS web development skills**.
-
-## 🌎 Live Website
-
-Visit the live website:
-
-[**https://suhavarshan.github.io/Stocks-School/**](https://suhavarshan.github.io/Stocks-School/)
-
-## 📚 What I Learned
-
-While building this project, I practiced:
-
-* Creating webpages with HTML
-* Styling webpages using CSS
-* Linking multiple HTML pages
-* Adding and sizing images
-* Creating navigation sections
-* Organizing website content
-* Publishing a website using GitHub Pages
-* Understanding basic responsive design concepts
-
-## ⚠️ Disclaimer
-
-Stocks-School is created **for educational purposes only**.
-
-The information provided on this website is intended to explain basic stock market concepts and should not be considered financial or investment advice.
-
-Always do your own research and consult a qualified financial professional before making investment decisions.
-
-## 👨‍💻 About the Developer
-
-Created by **Suhavarshan** as a web development learning project.
-
-Currently learning and improving my skills in **HTML, CSS, and web development**.
+**Live Website:**
+https://suhavarshan.github.io/Stocks-School/
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and learn from it!
+## 📚 What You'll Learn
+
+Stocks School covers important topics for people who are starting their stock market learning journey:
+
+* 📊 Stock Market Basics
+* 💡 What is a Share?
+* 🏦 How the Stock Market Works
+* 📈 Investing vs Trading
+* 💰 Why Do People Invest?
+* ⚠️ Understanding Risk
+* 🪪 DEMAT Account Basics
+* 🔎 Fundamental Analysis
+* 📉 Technical Analysis
+* 💵 SIP Basics
+* 📝 Steps to Start Learning About the Stock Market
+* 🌐 NSE and BSE Basics
+
+The content is designed to introduce concepts step-by-step rather than overwhelm beginners with complicated terminology.
+
+---
+
+## 🌍 Languages
+
+The website provides educational content in:
+
+* 🇬🇧 English
+* 🇮🇳 Tamil
+
+This helps make stock market education accessible to a wider audience, especially beginners who are more comfortable learning in Tamil.
+
+---
+
+## 🎯 Project Goals
+
+The main goals of Stocks School are to:
+
+1. Make stock market concepts easy to understand.
+2. Help beginners build a strong foundation.
+3. Explain important financial terms in simple language.
+4. Encourage learning before making financial decisions.
+5. Provide educational content without promoting specific investments.
+
+---
+
+## 🛠️ Technologies Used
+
+This project is built using beginner-friendly web technologies:
+
+* **HTML5** — Website structure
+* **CSS3** — Styling and page design
+* **GitHub** — Version control and project hosting
+* **GitHub Pages** — Website deployment
+
+---
+
+## 📁 Project Structure
+
+```text
+Stocks-School/
+│
+├── index.html
+├── About me.html
+├── CSS files
+├── Images/
+└── README.md
+```
+
+*The exact file structure may change as the project develops.*
+
+---
+
+## 🚀 Future Improvements
+
+Stocks School is an ongoing learning project. Future improvements may include:
+
+* 📱 Better mobile responsiveness
+* 🎨 Improved UI/UX
+* 📖 More educational articles
+* 🌐 Additional Tamil content
+* 💻 JavaScript-based interactive features
+* 📊 Interactive learning tools
+* 🔍 Improved website navigation
+* ⚡ Performance improvements
+
+---
+
+## ⚠️ Educational Disclaimer
+
+Stocks School is created for **educational and informational purposes only**.
+
+The website does not provide personalized financial advice, investment recommendations, or guarantees of returns.
+
+Always learn about an investment and understand its risks before making financial decisions.
+
+---
+
+## 👨‍💻 About the Project
+
+Stocks School is also a personal web-development learning project. It combines my interest in **stock market education** with my journey of learning **HTML, CSS, Git, GitHub, and web development**.
+
+The project will continue to evolve as I learn new technologies and improve my development skills.
+
+---
+
+## ⭐ Support the Project
+
+If you find this project useful, you can:
+
+* ⭐ Star the repository
+* 🔗 Share the website
+* 💡 Suggest improvements
+* 🐛 Report issues
+* 📚 Continue learning
+
+---
+
+### 📈 Learn • Understand • Build • Grow
+
+**Stocks School — Start with knowledge.**
