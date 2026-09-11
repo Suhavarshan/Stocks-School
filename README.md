@@ -13,6 +13,10 @@ The goal of this project is to make financial concepts easier to understand with
 **Live Website:**
 https://suhavarshan.github.io/Stocks-School/
 
+## 🌐 Website Preview
+
+[![Stocks School Website](images/ScreenShot.PNG)](https://suhavarshan.github.io/Stocks-School/)
+
 ---
 
 ## 📚 What You'll Learn
