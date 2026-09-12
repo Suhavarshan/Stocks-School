@@ -1,53 +1,78 @@
 # 📈 Stocks School
 
-**Learn the Stock Market. Understand Before You Invest.**
+### Learn Stock Market Basics & Fundamentals
 
-Stocks School is an educational website created to help beginners understand the **basics and fundamentals of the stock market** in a simple and beginner-friendly way.
+**Stocks School** is a beginner-friendly educational website designed to help learners understand the fundamentals of the stock market in a simple and structured way.
 
-The goal of this project is to make financial concepts easier to understand without promoting any particular stock, company, broker, or investment product.
+🌐 **Live Website:** [Stocks School](https://suhavarshan.github.io/Stocks-School/)
 
 ---
-
-## 🌐 Website
-
-**Live Website:**
-https://suhavarshan.github.io/Stocks-School/
 
 ## 🌐 Website Preview
 
-[![Stocks School Website](images/ScreenShot.PNG)](https://suhavarshan.github.io/Stocks-School/)
+<p align="center">
+  <img src="preview.png" alt="Stocks School Website Preview" width="850">
+</p>
+
+
 
 ---
 
-## 📚 What You'll Learn
+## 📚 About the Project
 
-Stocks School covers important topics for people who are starting their stock market learning journey:
+Stocks School is a web development project created to present stock-market concepts in an easy-to-understand format.
+
+The website covers topics such as:
 
 * 📊 Stock Market Basics
-* 💡 What is a Share?
-* 🏦 How the Stock Market Works
-* 📈 Investing vs Trading
-* 💰 Why Do People Invest?
-* ⚠️ Understanding Risk
-* 🪪 DEMAT Account Basics
-* 🔎 Fundamental Analysis
+* 💹 Shares & Investing
+* 🏦 Demat Accounts
+* ⚖️ Trading vs Investing
+* 📈 Fundamental Analysis
 * 📉 Technical Analysis
-* 💵 SIP Basics
-* 📝 Steps to Start Learning About the Stock Market
-* 🌐 NSE and BSE Basics
+* 💰 SIP — Systematic Investment Plan
+* 🌐 English & Tamil educational content
 
-The content is designed to introduce concepts step-by-step rather than overwhelm beginners with complicated terminology.
+The goal is to make financial concepts easier for beginners to understand through simple explanations and organized content.
 
 ---
 
-## 🌍 Languages
+## ✨ Features
 
-The website provides educational content in:
+* 📱 Responsive website design
+* 🌐 English and Tamil content
+* 📚 Beginner-friendly explanations
+* 📊 Stock-market educational topics
+* 🎨 Clean and simple UI
+* 🚀 Hosted using GitHub Pages
+* 🔗 Easy navigation between pages
 
-* 🇬🇧 English
-* 🇮🇳 Tamil
+---
 
-This helps make stock market education accessible to a wider audience, especially beginners who are more comfortable learning in Tamil.
+## 🛠️ Technologies Used
+
+| Technology       | Purpose                       |
+| ---------------- | ----------------------------- |
+| **HTML5**        | Website structure             |
+| **CSS3**         | Styling and responsive design |
+| **GitHub Pages** | Website hosting               |
+
+---
+
+## 📂 Project Structure
+
+```text
+Stocks-School/
+│
+├── index.html
+├── About me.html
+├── Fundamental Analysis .html
+├── Fundamental Analysis in Tamil.html
+├── style.css
+├── images/
+│
+└── README.md
+```
 
 ---
 
@@ -55,86 +80,39 @@ This helps make stock market education accessible to a wider audience, especiall
 
 The main goals of Stocks School are to:
 
-1. Make stock market concepts easy to understand.
-2. Help beginners build a strong foundation.
-3. Explain important financial terms in simple language.
-4. Encourage learning before making financial decisions.
-5. Provide educational content without promoting specific investments.
+* Help beginners understand stock-market concepts.
+* Present information in a simple and organized way.
+* Provide educational content in both English and Tamil.
+* Improve my practical skills in web development.
+* Learn by building and publishing a real website.
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Deployment
 
-This project is built using beginner-friendly web technologies:
+The website is deployed using **GitHub Pages**.
 
-* **HTML5** — Website structure
-* **CSS3** — Styling and page design
-* **GitHub** — Version control and project hosting
-* **GitHub Pages** — Website deployment
+🔗 **Live Website:**
+https://suhavarshan.github.io/Stocks-School/
 
 ---
 
-## 📁 Project Structure
+## 📌 Disclaimer
 
-```text
-Stocks-School/
-│
-├── index.html
-├── About me.html
-├── CSS files
-├── Images/
-└── README.md
-```
+Stocks School is an **educational project** created to explain basic stock-market concepts.
 
-*The exact file structure may change as the project develops.*
+It does not provide financial advice, investment recommendations, or promote any particular investment.
 
 ---
 
-## 🚀 Future Improvements
+## 👨‍💻 Developer
 
-Stocks School is an ongoing learning project. Future improvements may include:
+**Suhavarshan**
 
-* 📱 Better mobile responsiveness
-* 🎨 Improved UI/UX
-* 📖 More educational articles
-* 🌐 Additional Tamil content
-* 💻 JavaScript-based interactive features
-* 📊 Interactive learning tools
-* 🔍 Improved website navigation
-* ⚡ Performance improvements
+Built while learning and improving web development skills.
+
+> **Code • Build • Learn • Repeat**
 
 ---
 
-## ⚠️ Educational Disclaimer
-
-Stocks School is created for **educational and informational purposes only**.
-
-The website does not provide personalized financial advice, investment recommendations, or guarantees of returns.
-
-Always learn about an investment and understand its risks before making financial decisions.
-
----
-
-## 👨‍💻 About the Project
-
-Stocks School is also a personal web-development learning project. It combines my interest in **stock market education** with my journey of learning **HTML, CSS, Git, GitHub, and web development**.
-
-The project will continue to evolve as I learn new technologies and improve my development skills.
-
----
-
-## ⭐ Support the Project
-
-If you find this project useful, you can:
-
-* ⭐ Star the repository
-* 🔗 Share the website
-* 💡 Suggest improvements
-* 🐛 Report issues
-* 📚 Continue learning
-
----
-
-### 📈 Learn • Understand • Build • Grow
-
-**Stocks School — Start with knowledge.**
+⭐ If you find this project useful, consider giving the repository a star!
